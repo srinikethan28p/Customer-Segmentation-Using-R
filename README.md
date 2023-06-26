@@ -1,1 +1,2 @@
-# CustomerSegmentationUsingR
+# Customer Segmentation Using R
+
